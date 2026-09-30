@@ -31,13 +31,13 @@ I enjoy building practical projects, learning new technologies, and improving ev
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Contribution Activity
 
 ![snake gif](https://raw.githubusercontent.com/shoiti26x/shoiti26x/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🧠 What I'm Learning
+## 🎯 Current Focus
 
 - 🐍 Python & Automation
 - 📊 Data Analysis (Pandas, Plotly)
@@ -74,8 +74,7 @@ I enjoy building practical projects, learning new technologies, and improving ev
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
