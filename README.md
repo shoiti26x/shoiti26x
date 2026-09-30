@@ -5,29 +5,24 @@
 🚀 **Backend Developer | Python & Java**  
 🇧🇷 Brazil
 
-I'm focused on becoming a strong **backend developer**, with **Python** as my main language for automation and data analysis, and solid foundations in **Java** and **Spring Boot**.  
-Currently studying software architecture, clean code, databases, and backend development fundamentals.
+I'm focused on backend development, with **Python** as my main language for automation and data analysis, alongside **Java** and **Spring Boot** for backend applications and APIs.
 
-I also have knowledge in **HTML** and **CSS** for building modern web interfaces.
+I have experience with **databases, REST APIs, data analysis, automation, Git, and software development fundamentals**.
 
-I enjoy building practical projects, learning new technologies, and improving every day as a developer.
+I also have knowledge of **HTML and CSS** for building modern web interfaces.
+
+I enjoy building practical projects, solving problems, and continuously improving my technical skills.
 
 ---
+
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/shoiti26x" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:shoitiwork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://github.com/shoiti26x"><img src="https://img.icons8.com/color/48/github.png" width="30" alt="GitHub" title="GitHub"></a>
+<a href="https://www.linkedin.com/in/shoiti-tokunaga"><img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn" title="LinkedIn"></a>
+<a href="mailto:shoitiwork@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="30" alt="Email" title="Email"></a>
 </p>
+
 
 ---
 
@@ -37,54 +32,88 @@ I enjoy building practical projects, learning new technologies, and improving ev
 
 ---
 
-## 🎯 Current Focus
+## 💻 Languages
 
-- 🐍 Python & Automation
-- 📊 Data Analysis (Pandas, Plotly)
-- ☕ Java & Object-Oriented Programming
-- 🌱 Spring Boot & REST APIs
-- 🗄️ MySQL & Database Modeling
-- 🔐 Backend Architecture
-- 🌐 Computer Networks
-- 🔗 Git & GitHub
-- ⚡ Clean Code Practices
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" alt="CSS3"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools
 
-### Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" title="IntelliJ IDEA" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="Visual Studio Code" alt="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" alt="Postman"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Data & Automation
+## ⚙️ Backend
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" alt="FastAPI"/>
+</p>
 
-### Frontend
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 📊 Data & Automation
 
-### Tools
+<p align="left">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" title="Power BI" alt="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" title="Plotly" alt="Plotly"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
+
+## 🐧 Environment
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" alt="Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="40" title="Fedora" alt="Fedora"/>
+</p>
+
+---
+
+## 🎯 Core Technologies
+
+- Python
+- Java
+- SQL
+- Spring Boot
+- REST APIs
+- MySQL
+- Pandas
+- Power BI
+- Plotly
+- Git & GitHub
+- Linux
+- Fedora
+- Object-Oriented Programming
+- Clean Code
+- Software Architecture
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shoiti26x&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoiti26x&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
 ---
 
 ## 🚀 Philosophy
 
-> _"Consistency beats motivation.  
-> Small improvements every day create big results over time."_
-
----
-
-⭐ Always learning and improving as a developer
+> *"Consistency beats motivation.*
+> *Small improvements every day create big results over time."*
