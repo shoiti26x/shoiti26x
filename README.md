@@ -77,6 +77,15 @@ I enjoy building practical projects, learning new technologies, and improving ev
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shoiti26x&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shoiti26x&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🚀 Philosophy
 
 > _"Consistency beats motivation.  
