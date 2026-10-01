@@ -108,7 +108,7 @@ I enjoy building practical projects, solving problems, and continuously improvin
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shoiti26x&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoiti26x&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoiti26x&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook"/>
 </p>
 
 ---
